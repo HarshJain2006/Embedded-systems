@@ -108,6 +108,11 @@ The display is updated every second with the current date, hours, minutes, and s
 - `time.h`
 
 ---
+## 📸 Output
+
+![ESP32 NTP Clock Output](image/output_image.jpg)
+
+---
 
 ## 🧠 What I Learned
 
