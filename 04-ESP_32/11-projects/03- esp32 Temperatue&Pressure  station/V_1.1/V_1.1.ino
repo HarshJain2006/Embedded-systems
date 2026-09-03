@@ -19,8 +19,8 @@
 // WIFI CONFIGURATION
 // ============================================================
 
-const char* WIFI_SSID = "Airtel_Sanmati";
-const char* WIFI_PASSWORD = "Pm3051985!!";
+const char* WIFI_SSID = "Your_wifi_name";
+const char* WIFI_PASSWORD = "Your_wifi_password";
 
 const unsigned long WIFI_CHECK_INTERVAL = 5000;
 
