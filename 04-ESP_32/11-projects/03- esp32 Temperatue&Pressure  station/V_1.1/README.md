@@ -460,14 +460,14 @@ During the development of Version 1.1, the following concepts were explored and 
 
 ---
 
-# 📸 Screenshots and Images
+## 📸 Hardware Setup
 
-Project images and screenshots can be added to document:
+![ESP32 Weather Station Hardware](images/Hardware_setup.jpg)
+![ESP32 Weather Station Hardware](images/Hardware_setup2.jpg)
 
-- Complete hardware setup
-- OLED display output
-- Web dashboard
-- Mobile dashboard
+## 🎥 Project Demonstration
+
+[▶️ Watch the ESP32 Weather Station Demo](images/project_demo.mp4)
 
 ---
 
