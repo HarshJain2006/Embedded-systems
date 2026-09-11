@@ -593,14 +593,9 @@ Possible future improvements include:
 ---
 
 
-# 📸 Screenshots and Images
+## 📸 Hardware Setup
 
-Project images and screenshots will be added to document:
-
-- Hardware setup
-- OLED display output
-- Web dashboard
-- Mobile dashboard
+![ESP32 Weather Station Hardware](V_1.1/images/Hardware_setup.jpg)
 
 # 🎓 Learning Outcomes
 
