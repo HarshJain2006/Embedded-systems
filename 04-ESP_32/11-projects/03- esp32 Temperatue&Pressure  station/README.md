@@ -252,7 +252,7 @@ Store Sensor Reading
 Provide Data to Web Dashboard
             │
             ▼
-Repeat
+          Repeat
 ```
 
 ---
